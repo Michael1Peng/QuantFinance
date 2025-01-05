@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 18,
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter",
+    },
+    "autoContext.shouldOutput": true
+  }
+  
