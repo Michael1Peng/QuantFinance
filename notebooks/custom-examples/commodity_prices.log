@@ -1,0 +1,38 @@
+2025-01-07 22:39:02,165 - INFO - ==================================================
+2025-01-07 22:39:02,165 - INFO - Starting commodity price analysis
+2025-01-07 22:39:02,165 - INFO - Processing Gold data
+2025-01-07 22:39:02,165 - INFO - Fetching data for GC=F from 2015-01-01 to 2025-12-31
+2025-01-07 22:39:07,139 - INFO - Successfully retrieved 2517 days of data for GC=F
+2025-01-07 22:39:07,139 - INFO - Gold data summary:
+2025-01-07 22:39:07,140 - INFO - Average price: $1605.10
+2025-01-07 22:39:07,140 - INFO - Maximum price: $2788.50
+2025-01-07 22:39:07,140 - INFO - Minimum price: $1050.80
+2025-01-07 22:39:07,140 - INFO - Processing Barley data
+2025-01-07 22:39:07,140 - INFO - Fetching data for ZB=F from 2015-01-01 to 2025-12-31
+2025-01-07 22:39:07,606 - INFO - Successfully retrieved 2518 days of data for ZB=F
+2025-01-07 22:39:07,606 - INFO - Barley data summary:
+2025-01-07 22:39:07,606 - INFO - Average price: $148.75
+2025-01-07 22:39:07,606 - INFO - Maximum price: $186.94
+2025-01-07 22:39:07,607 - INFO - Minimum price: $107.84
+2025-01-07 22:39:07,607 - INFO - Creating price comparison plot
+2025-01-07 22:39:07,935 - INFO - Plot saved to /home/michael/ubuntu-repos/QuantFinance/notebooks/custom-examples/commodity_analysis.png
+2025-01-07 22:39:07,935 - INFO - Analysis completed successfully
+2025-01-12 13:55:40,561 - INFO - ==================================================
+2025-01-12 13:55:40,561 - INFO - Starting commodity price analysis
+2025-01-12 13:55:40,561 - INFO - Processing Gold data
+2025-01-12 13:55:40,561 - INFO - Fetching data for GC=F from 2005-01-01 to 2025-12-31
+2025-01-12 13:55:41,770 - INFO - Successfully retrieved 5033 days of data for GC=F
+2025-01-12 13:55:41,770 - INFO - Gold data summary:
+2025-01-12 13:55:41,771 - INFO - Average price: $1340.70
+2025-01-12 13:55:41,771 - INFO - Maximum price: $2788.50
+2025-01-12 13:55:41,771 - INFO - Minimum price: $412.60
+2025-01-12 13:55:41,771 - INFO - Processing Barley data
+2025-01-12 13:55:41,771 - INFO - Fetching data for ZB=F from 2005-01-01 to 2025-12-31
+2025-01-12 13:55:41,938 - INFO - Successfully retrieved 5033 days of data for ZB=F
+2025-01-12 13:55:41,938 - INFO - Barley data summary:
+2025-01-12 13:55:41,938 - INFO - Average price: $137.10
+2025-01-12 13:55:41,938 - INFO - Maximum price: $186.94
+2025-01-12 13:55:41,938 - INFO - Minimum price: $105.47
+2025-01-12 13:55:41,938 - INFO - Creating price comparison plot
+2025-01-12 13:55:42,296 - INFO - Plot saved to /home/michael/ubuntu-repos/QuantFinance/notebooks/custom-examples/commodity_analysis.png
+2025-01-12 13:55:42,296 - INFO - Analysis completed successfully
